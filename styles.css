@@ -9,8 +9,8 @@ body{
 	justify-content:center;
 	align-items:center;
 	background-color:light-blue;
-	width:200ps;
+	width:200px;
 	height:200px;
-	border: 2px black;
+	border: 2px solid black;
 	color: purple
 }
