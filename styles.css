@@ -1,9 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	position: absolute;
-	top:50%;
-	left:50%;
-	transform:translate(-50%,-50%);
+	margin:0px;
 }
 #box{
 	position:absolute;
@@ -15,7 +12,7 @@ body{
 	width:200px;
 	height:200px;
 	border: 2px solid black;
-	color: purple
+	
 	
 }
 
@@ -25,6 +22,7 @@ body{
 	left:50%;
 	transform:translate(-50%,-50%);
 	margin:0px;
+	color: purple
 	white-space: nowrap;
 	
 }
