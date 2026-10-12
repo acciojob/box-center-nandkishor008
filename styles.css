@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	position:absolute;
+	position: relative;
 	top:50%;
 	left:50%;
 	transform:translate(-50%,-50%);
