@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	position: relative;
+	position: absolute;
 	top:50%;
 	left:50%;
 	transform:translate(-50%,-50%);
@@ -10,6 +10,7 @@ body{
 	top:50%;
 	left:50%;
 	transform:translate(-50%,-50%);
+	margin:0px;
 	background-color:light-blue;
 	width:200px;
 	height:200px;
