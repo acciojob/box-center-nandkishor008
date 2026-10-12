@@ -1,13 +1,15 @@
 /*  your css code here. If applicable */
 body{
-	display:flex;
-	justify-content:center;
-	align-items:center;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
 }
 #box{
-	display:flex;
-	justify-content:center;
-	align-items:center;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
 	background-color:light-blue;
 	width:200px;
 	height:200px;
